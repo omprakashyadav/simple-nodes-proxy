@@ -8,3 +8,5 @@ To run it:
 For exampple:
 
 `npm run start http://192.168.1.3:3006`
+
+Open the port http://localhost:3007
